@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/spf13/hugoThemes#themetoml for an example
+
+name = "Corsair"
+license = "MIT"
+licenselink = "https://github.com/adamkrieger/corsair/blob/master/LICENSE.md"
+description = ""
+homepage = "http://www.adamkrieger.ca/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.13
+
+[author]
+  name = "Adam Krieger"
+  homepage = "http://www.adamkrieger.ca/"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""

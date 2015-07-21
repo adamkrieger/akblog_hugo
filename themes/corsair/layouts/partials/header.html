@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="utf-8" />
+	<title>{{ .Title }}</title>
+	<link rel="icon" type="image/png" href="{{ "img/favicon.png" | absURL }}"/>
+</head>
+<body>
+	<link rel="stylesheet" href="{{ "css/normalize.css" | absURL }}"/>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
+	<link rel="stylesheet" href="{{ "css/style.css"  | absURL }}"/>
+
+	<header>
+		<div id="headercontent">
+			<a href="{{ "index.html" | absURL }}">
+				<img id="logo" class="headerblock" src="{{ "img/aklogo_41_25.png" | absURL }}" alt="Adam Krieger Logo" height="25" width="41" />
+
+				<h1 class="headerblock">Adam Krieger</h1>
+			</a>
+			<nav class="headerblock">
+				<ul>
+					<li><a href="about">About</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>

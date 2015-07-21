@@ -1,0 +1,12 @@
+theme = "corsair"
+baseurl = "http://www.adamkrieger.ca/"
+languageCode = "en-us"
+title = "Adam Krieger"
+disqusShortname = "adamkrieger"
+[params]
+	author = "Adam Krieger"
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"
+
+Paginate = 2
