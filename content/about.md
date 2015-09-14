@@ -4,7 +4,7 @@ description = "about this site"
 date = "2014-09-27"
 +++
 
-Welcome to my personal blog. It tends to be a mix of technical discussion, editorial on people practices, and other topics in between which excite me professionally.
+Welcome to my personal blog. You'll find discussions and examples of functional and concurrent programming, and opinions about how software gets built.
 
 Here are some of the more specific topics I'm currently diving into:
 

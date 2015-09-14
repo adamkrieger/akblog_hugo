@@ -75,6 +75,10 @@ section{
 	margin: 0;
 }
 
+.twitter-share-button{
+	margin-top: 8px;
+}
+
 /********************
 	FOOTER
 ********************/
@@ -160,16 +164,15 @@ body{
 }
 
 header h1{
-	font-size: 22px;
+	font-size: 130%;
 }
 
 header h2{
-	font-size: 20px;
 	font-weight: normal;
 }
 
 nav a{
-	font-size: 18px;
+	font-size: 110%;
 }
 
 footer{

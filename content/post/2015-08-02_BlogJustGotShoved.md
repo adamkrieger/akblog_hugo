@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = []
+Tags = ["golang"]
 date = "2015-08-02T18:54:53-05:00"
 title = "This Blog Just Got Shoved (Shove v0.1.0)"
 id = "555995df-e119-4c69-ac86-b4493043fa58"

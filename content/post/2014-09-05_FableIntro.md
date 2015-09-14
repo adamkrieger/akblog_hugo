@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = []
+Tags = ["f#"]
 date = "2014-09-05T20:54:53-05:00"
 title = "Fable - The F# Static Site Generator"
 id = "df1d2e86-8859-4c73-9675-2d7b87016fd3"

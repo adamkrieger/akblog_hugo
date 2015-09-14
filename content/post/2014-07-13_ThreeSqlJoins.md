@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = []
+Tags = ["sql"]
 date = "2014-07-13T18:54:53-05:00"
 title = "What are the Three SQL Join Syntaxes"
 id = "0dc4d57b-9f3a-4192-afea-4680be7c1e42"

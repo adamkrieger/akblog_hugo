@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = []
+Tags = ["agile"]
 date = "2014-07-27T20:54:53-05:00"
 title = "The Agile Vacation"
 id = "cc63e004-ce84-4f13-9334-33fdf1f6c315"

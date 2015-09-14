@@ -2,9 +2,19 @@
   <section>
     <h1 id="post-title">{{ .Title }}</h1>
 		<h2 id="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="AdamKrieger" data-related="AdamKrieger" data-count="none">Tweet</a>
+
     {{ .Content }}
 
+    <hr />
+
+    Like the article? <a href="https://twitter.com/share" class="twitter-share-button" data-via="AdamKrieger" data-related="AdamKrieger" data-count="none">Tweet</a>
+
     <div id="disqus_thread"></div>
+
+    <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+    </script>
+
     <script type="text/javascript">
       /* * * CONFIGURATION VARIABLES * * */
       var disqus_shortname = '{{ .Site.DisqusShortname }}';

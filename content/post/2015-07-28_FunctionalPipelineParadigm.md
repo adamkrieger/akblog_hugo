@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = []
+Tags = ["functional programming"]
 date = "2015-07-28T18:54:53-05:00"
 title = "The Functional Pipeline Paradigm"
 id = "85101b00-4833-4a4b-9ee7-7f4f03502a6e"

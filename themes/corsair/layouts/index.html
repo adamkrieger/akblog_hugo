@@ -1,14 +1,20 @@
 {{ partial "header.html" . }}
   <section>
     {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-      {{ range $paginator.Pages }}
-        <h1 id="post-title">{{ .Title }}</h1>
-        <h2 id="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
-        <p class="post-summary">{{ .Summary }}</p>
-        <a class="post-readon" href="{{ .Permalink }}">Read on</a>
-        <br />
-        <br />
-      {{ end }}
-    {{ template "_internal/pagination.html" . }}
+    {{ range $paginator.Pages }}
+      <h1 id="post-title">{{ .Title }}</h1>
+      <h2 id="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+      <p class="post-summary">{{ .Summary }}</p>
+      <a class="post-readon" href="{{ .Permalink }}">Read on</a>
+      <br />
+      <br />
+    {{ end }}
+
+    {{ if .Paginator.HasPrev }}
+    <a class="post-readon" href="{{ .Paginator.Prev.URL }}">Page {{ .Paginator.Prev.PageNumber }}</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="post-readon" href="{{ .Paginator.Next.URL }}">Page {{ .Paginator.Next.PageNumber }}</a>
+    {{ end }}
   </section>
 {{ partial "footer.html" . }}

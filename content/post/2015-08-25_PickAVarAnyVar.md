@@ -1,7 +1,7 @@
 +++
 Categories = []
 Description = ""
-Tags = ["referential-transparency"]
+Tags = ["referential transparency"]
 date = "2015-08-25T10:54:53-05:00"
 title = "Pick a Variable, Any Variable"
 id = "b0cf95e0-1b95-4697-81f8-784737e1b4f8"
