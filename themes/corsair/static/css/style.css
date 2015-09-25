@@ -57,6 +57,10 @@ section{
 	padding: 0 5%;
 }
 
+section td{
+	padding: 0 5px 0 5px;
+}
+
 .page-title{
 	margin: 0;
 	padding: 0;
