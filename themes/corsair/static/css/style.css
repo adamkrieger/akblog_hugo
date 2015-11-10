@@ -71,6 +71,10 @@ section td{
 	padding: 10px 0 5px;
 }
 
+/********************
+	POST
+********************/
+
 #post-title{
 	margin: 0;
 }
@@ -81,6 +85,19 @@ section td{
 
 .twitter-share-button{
 	margin-top: 8px;
+}
+
+.twitter-tweet{
+	margin: 0 auto;
+}
+
+.twitter-tweet-right-float{
+	margin: 0 10px;
+	float: right;
+}
+
+.post-footer{
+	clear: right;
 }
 
 /********************
