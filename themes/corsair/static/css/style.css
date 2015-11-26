@@ -16,7 +16,7 @@
 header h1{
 	vertical-align: top;
 	margin: 0;
-	padding: 3px 0 0 0
+	padding: 3px 0 0 0;
 }
 
 nav{
@@ -81,6 +81,10 @@ section td{
 
 #post-date{
 	margin: 0;
+}
+
+.post td{
+	padding: 2px 8px;
 }
 
 .twitter-share-button{
@@ -185,6 +189,7 @@ body{
 }
 
 header h1{
+	font-weight: normal;
 	font-size: 130%;
 }
 
@@ -201,11 +206,13 @@ footer{
 }
 
 #post-title{
+	font-weight: normal;
 	font-size: 1.6em;
 }
 
 #post-date{
 	font-size: 1em;
+	font-weight: normal;
 }
 
 
