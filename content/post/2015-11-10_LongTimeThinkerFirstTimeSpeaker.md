@@ -14,13 +14,13 @@ The Software Development Evolution Conference ([SDEC](http://www.sdeconf.com/)) 
 
 ### Abstracting Early
 
-The first hurdle was writing a gripping Abstract. A conference abstract is like a cover letter for your presentation, and here I was trying to write one without having ever presented on this topic. I am very passionate about Continuous Delivery, though. It works in more cases than one might think, and some of the most advanced forces in the industry are proving its benefits every day.
+The first hurdle was writing a gripping Abstract. A conference abstract is like a cover letter for your presentation, and here I was trying to write one without having ever presented on this topic. I am very passionate about Continuous Delivery. It works in more cases than one might think, and some of the most advanced forces in the industry are proving its benefits every day.
 
 *So what?*
 
-That's [the most impactful advice](http://getinvolved.hanselman.com/) I've heard about presenting your opinion. Whatever the medium, whatever the topic, Scott Hanselman says to ask yourself "So what?" at every opportunity. If the ideas are coming from you, and you can't answer that question, then no one else is going to be able to.
+That's [the most impactful advice](http://getinvolved.hanselman.com/) I've heard about presenting your opinion. Whatever the medium, whatever the topic, Scott Hanselman says to ask yourself "So what?" at every opportunity. If the ideas are coming from you, and you can't answer that question, then no one else will.
 
-My 'so what?' turned out to be the customer's happiness. Happiness ties directly into value delivery and sales, and so I had my mission. A Continuously Delivering team is more practiced at getting value to the customer, and can take advantage of time-sensitive opportunities than its long-cycle cousins. I was able to build off this central theme to lay out an argument that I could stand behind. These CD systems need more than a backer, they need a champion. Systems need maintenance and vigilance, or their value erodes quickly.
+My 'so what?' turned out to be the customer's happiness. Happiness ties directly into value delivery and sales, and so I had my mission. A Continuously Delivering team is more practiced at getting value to the customer, and can take advantage of more time-sensitive opportunities than its long-cycle cousins. I was able to build off this central theme to lay out an argument that I could stand behind. These CD systems need more than a backer, they need a champion. Systems need maintenance and vigilance, or their value erodes quickly.
 
 ### Scaling Back
 
@@ -29,7 +29,7 @@ My 'so what?' turned out to be the customer's happiness. Happiness ties directly
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
-This pitch contained a reference to a physical representation of a delivery pipeline. The original idea was very Rube Goldberg-esque. I imagined an Arduino-driven gate releasing ping pong balls on a steady timer, but I had to be honest with myself. The 8-year-old kid in me still wants to build it, but the result had to get the point across without being a complete distraction. It got scaled back.
+This pitch contained a reference to a physical representation of a delivery pipeline. The original idea was very complex. I imagined an Arduino-driven gate releasing ping pong balls on a steady timer, but I had to be honest with myself. The 8-year-old kid in me still wants to build it, but the result had to get the point across without being a complete distraction. It got scaled back.
 
 The result was a five foot section of duct with a damper a quarter way down and enough of the [handyman's secret weapon](https://www.youtube.com/watch?v=3bZIcMcSXZk) to make any plaid-shirted individual proud.
 
