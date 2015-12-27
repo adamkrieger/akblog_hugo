@@ -1,0 +1,23 @@
+{
+  "name": "akblog_hugo",
+  "version": "1.0.0",
+  "description": "adamkrieger.ca",
+  "main": "app.js",
+  "scripts": {
+    "refresh": "rm -rf public && hugo",
+    "deploy": "npm run refresh && shove push -d ./public -b adamkrieger.ca"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamkrieger/akblog_hugo.git"
+  },
+  "keywords": [
+    "adamkrieger.ca"
+  ],
+  "author": "Adam Krieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamkrieger/akblog_hugo/issues"
+  },
+  "homepage": "https://github.com/adamkrieger/akblog_hugo#readme"
+}
